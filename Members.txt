@@ -6,10 +6,4 @@ muin yusof
 
 anthony ly
 
-<<<<<<< HEAD
 ben paluch
-
-sup boiss
-=======
-ben paluchben paluch
->>>>>>> origin/master
